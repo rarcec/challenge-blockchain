@@ -1,8 +1,8 @@
 package com.challenge.domain.usecase.impl;
 
+import com.challenge.domain.model.Block;
+import com.challenge.domain.model.Blockchain;
 import com.challenge.domain.usecase.LogService;
-import com.challenge.domain.usecase.model.Block;
-import com.challenge.domain.usecase.model.Blockchain;
 import com.challenge.utils.CSVUtils;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

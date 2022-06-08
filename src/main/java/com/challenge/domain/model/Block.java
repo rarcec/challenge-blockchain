@@ -1,4 +1,4 @@
-package com.challenge.domain.usecase.model;
+package com.challenge.domain.model;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
